@@ -1,6 +1,6 @@
 
 
 function showAlert(){
-    var message = "太多人了! hold不住囉~~~~"
+    let message = "Too many people. Please wait for repairing.";
     window.alert(message)
 }
