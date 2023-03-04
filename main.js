@@ -1,6 +1,3 @@
-
-
-function showAlert(){
-    let message = "Too many people. Please wait for repairing.";
-    window.alert(message)
+function redirectToOtherSite() {
+    window.location.href = "https://www.facebook.com/carePChome"
 }
